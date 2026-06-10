@@ -1,0 +1,6 @@
+{
+  "name": "Nyth Atom",
+  "description": "Premium Myanmar mobile self-care, balances overview and gamified star rewards applet.",
+  "requestFramePermissions": ["otp-credentials"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
