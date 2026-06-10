@@ -1,0 +1,21 @@
+{
+  "short_name": "Nyth Atom",
+  "name": "Nyth Atom Rewards",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/cyberpunk.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/cyberpunk.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0a0f1d",
+  "theme_color": "#0a0f1d",
+  "display": "standalone",
+  "orientation": "portrait"
+}
